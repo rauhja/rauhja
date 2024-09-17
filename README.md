@@ -12,6 +12,14 @@ I'm Jarkko and I am career changer from Mechanical Design to Software Developmen
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+## 🛠️ Languages and tools
+
+[![Frontend](https://skillicons.dev/icons?i=ts,html,css,react,next)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,vite,fastapi,postgres,prisma,graphql,mongodb)](https://skillicons.dev)
+
+
+[![Other](https://skillicons.dev/icons?i=swift,python,c,cs,git,github,githubactions,docker,unity,cypress,jest)](https://skillicons.dev)
+
 ## Featured Projects
 
 ### 🎓 Training Hub
