@@ -21,14 +21,14 @@ I'm Jarkko, a career changer from Mechanical Design to Software Development. My 
     <summary>Web Development</summary>
     <br>
 
-> [![Web Dev Tools](https://skillicons.dev/icons?i=html,css,react,next,nodejs,vite,fastapi,styledcomponents)](https://skillicons.dev)
+> [![Web Dev Tools](https://skillicons.dev/icons?i=html,css,react,next,nodejs,vite,fastapi,prisma,styledcomponents)](https://skillicons.dev)
 
 </details>
 <details>
     <summary>Database</summary>
     <br>
 
-> [![Database](https://skillicons.dev/icons?i=postgres,graphql,mongodb,prisma)](https://skillicons.dev)
+> [![Database](https://skillicons.dev/icons?i=postgres,graphql,mongodb)](https://skillicons.dev)
 
 </details>
 <details>
