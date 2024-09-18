@@ -58,6 +58,10 @@ I'm Jarkko, a career changer from Mechanical Design to Software Development. My 
 
 [Training Hub](https://github.com/ohtutraininghub/traininghub) is a platform for managing trainings available in a company. Users can browse and enroll in upcoming trainings, and trainers can create new trainings and manage existing ones.
 
+
+https://github.com/user-attachments/assets/e3b73ce3-c5f1-4320-a6dc-49bb9e440e36
+
+
 ### 🏃‍♂️‍➡️ Step Tracker
 
 ![Swift](https://img.shields.io/badge/Swift-orange)
