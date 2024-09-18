@@ -14,11 +14,41 @@ I'm Jarkko and I am career changer from Mechanical Design to Software Developmen
 
 ## 🛠️ Languages and tools
 
-[![Frontend](https://skillicons.dev/icons?i=ts,html,css,react,next)](https://skillicons.dev)
-[![Backend](https://skillicons.dev/icons?i=nodejs,vite,fastapi,postgres,prisma,graphql,mongodb)](https://skillicons.dev)
+<details>
+    <summary>Languages & Libraries</summary>
+    <br>
 
+> [![Languages](https://skillicons.dev/icons?i=js,ts,swift,py,c,cs)](https://skillicons.dev)
 
-[![Other](https://skillicons.dev/icons?i=swift,python,c,cs,git,github,githubactions,docker,unity,cypress,jest)](https://skillicons.dev)
+</details>
+<details>
+    <summary>Web Development</summary>
+    <br>
+
+> [![Web Dev Tools](https://skillicons.dev/icons?i=html,css,react,next,nodejs,vite,fastapi,styledcomponents)](https://skillicons.dev)
+
+</details>
+<details>
+    <summary>Database</summary>
+    <br>
+
+> [![Database](https://skillicons.dev/icons?i=postgres,graphql,mongodb,prisma)](https://skillicons.dev)
+
+</details>
+<details>
+    <summary>Testing</summary>
+    <br>
+
+> [![Testing tools](https://skillicons.dev/icons?i=jest,cypress,vitest)](https://skillicons.dev)
+
+</details>
+<details>
+    <summary>Other tools and libraries</summary>
+    <br>
+
+> [![Other tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,unity,heroku)](https://skillicons.dev)
+
+</details>
 
 ## Featured Projects
 
