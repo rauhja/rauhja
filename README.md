@@ -68,3 +68,8 @@ https://github.com/user-attachments/assets/e3b73ce3-c5f1-4320-a6dc-49bb9e440e36
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-orange)
 ![HealthKit](https://img.shields.io/badge/HealthKit-0073E6?style=flat&logo=apple&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-gray)
+
+[Step Tracker](https://github.com/rauhja/step-tracker) is a portfolio project and it integrates Apple Health to show your latest step and weight data in animated, interactive Swift Charts. You can also see your average steps and weight gain/loss for each weekday for the past 28 days.
+
+https://github.com/user-attachments/assets/18ecbf7d-3f64-4340-a913-e356ebffe3e3
+
