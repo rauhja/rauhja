@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-I'm Jarkko and I am career changer from Mechanical Design to Software Development. My main interests are in Web Development and iOS development.
+I'm Jarkko, a career changer from Mechanical Design to Software Development. My main interests are web development and iOS development.
 
 ## About me
 
-- 🔭 I’m currently looking for job opportunities
-- 🌱 I’m currently finishing my bachelor studies in Computer Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently open for job opportunities
+- 🌱 I’m about to finish my bachelor's studies in Computer Science
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarkkorauhala/)
 
 ## 🛠️ Languages and tools
 
