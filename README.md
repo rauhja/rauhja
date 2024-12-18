@@ -21,7 +21,7 @@ I'm Jarkko, a career changer from Mechanical Design to Software Development. My 
     <summary>Web Development</summary>
     <br>
 
-> [![Web Dev Tools](https://skillicons.dev/icons?i=html,css,react,next,nodejs,vite,fastapi,prisma,styledcomponents)](https://skillicons.dev)
+> [![Web Dev Tools](https://skillicons.dev/icons?i=react,next,nodejs,vite,fastapi,prisma,styledcomponents)](https://skillicons.dev)
 
 </details>
 <details>
