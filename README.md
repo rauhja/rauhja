@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jarkko, a career changer from Mechanical Design to Software Development. My main interests are web development and iOS development.
+I'm Jarkko, a career changer from Mechanical Design to Software Development. My main interests are in Web and Mobile development.
 
 ## About me
 
